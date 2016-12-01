@@ -3,7 +3,7 @@
 This is a small SpringBoot application written in Java to test an email setup I've done with 
 [Haraka](https://github.com/haraka/Haraka).
 
-The relevant setup details can be found in my [blog post]().
+The relevant setup details can be found in my [blog post](http://thihara.github.io/Creating-E-Mail-Service-with-Haraka/).
 
 # Dependencies
 
